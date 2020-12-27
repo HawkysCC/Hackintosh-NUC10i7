@@ -10,4 +10,11 @@
 - macOS Big Sur 11.1
 - macOS Catalina 10.15.7 (Need to replace the wifi driver)
 
+
+## Issues
+- HDMI Audio not work on some devices(replace AppleALC to VoodooHDA to fix this)
+- SD Card
+- Airdrop
+
+
 ## QQ Groups:591528332
