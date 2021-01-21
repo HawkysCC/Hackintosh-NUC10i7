@@ -1,3 +1,8 @@
+# Notice
+New releases on [https://github.com/hackintosh-efi/intel-nuc10](https://github.com/hackintosh-efi/intel-nuc10)
+this repo will no longer updated.
+
+
 # Hackintosh NUC10i7FNH OpenCore
 
 ## System Specification
